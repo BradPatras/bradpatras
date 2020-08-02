@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋  Brad is my name and making super-niche, single-screen, only-useful-to-me Android Apps is my game
 
-<!--
-**BradPatras/bradpatras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Funny enough I'm actually an iOS developer by trade, so don't be surprised if you see some swift scattered throughout my repos (like how I'm using swift as a scripting language to build my statically-hosted json files for my bike-omaha app. [Check it out](https://github.com/BradPatras/bike-omaha/tree/master/services))
 
-Here are some ideas to get you started:
+Each new app is an opportunity to play around with a different framework/design practice/etc.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ My most feature-complete app is [GPX Recorder](https://github.com/bradpatras/gpx-recorder).  
+
+💎 My prettiest looking app is [todometer](https://github.com/bradpatras/todometer-android). <sup>*Because the design came from an [already existing](https://github.com/cassidoo/todometer) app that I just adapted to the mobile experience 😅 </sup>
+
+My current projects are
+- 🛠 Building [bike-omaha](https://github.com/BradPatras/bike-omaha/)
+-  ⤴️ Updating[todometer](https://github.com/BradPatras/todometer-android) to V2
