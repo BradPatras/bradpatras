@@ -8,7 +8,8 @@ I treat each new app as an opportunity to play around with a different framework
 
 **I'm currently working on**
 - 🛠 &nbsp; Building [bike-omaha](https://github.com/BradPatras/bike-omaha/)
--  ⤴️ &nbsp; Updating [todometer](https://github.com/BradPatras/todometer-android) to V2
+- ⤴️ &nbsp; Updating [todometer](https://github.com/BradPatras/todometer-android) to V2
+- 🏋️ &nbsp; Maintaining [gpx-recorder](https://github/BradPatras/gpx-recorder)
 
 &nbsp;
 
