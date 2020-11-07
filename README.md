@@ -7,8 +7,8 @@ I treat each new app as an opportunity to play around with a different framework
 ---
 
 **I'm currently working on**
+- 👾 &nbsp; Participating in the 2020 [Github Game Off](https://itch.io/jam/game-off-2020) 
 - 🛠 &nbsp; Building [bike-omaha](https://github.com/BradPatras/bike-omaha/)
-- ⤴️ &nbsp; Updating [todometer](https://github.com/BradPatras/todometer-android) to V2
 - 🏋️ &nbsp; Maintaining [gpx-recorder](https://github.com/BradPatras/gpx-recorder)
 
 &nbsp;
