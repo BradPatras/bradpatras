@@ -7,6 +7,7 @@ I treat each new app as an opportunity to play around with a different framework
 ---
 
 **I'm currently working on**
+- ⚔️ &nbsp; Learning [Hilt](https://dagger.dev/hilt/) by updating from Dagger in [KotlinPlayground](https://github.com/BradPatras/KotlinPlayground) 
 - 🛠 &nbsp; Building [bike-omaha](https://github.com/BradPatras/bike-omaha/)
 - 🏋️ &nbsp; Maintaining [gpx-recorder](https://github.com/BradPatras/gpx-recorder)
 
