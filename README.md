@@ -1,6 +1,6 @@
 ## 👋 &nbsp; Hi 🤓
 
-I mostly play around with Android development here but I'm an iOS developer by trade, so don't be surprised if you see some swift scattered throughout my repos (like how I'm trying out swift as a scripting language to build my statically-hosted json files for my bike-omaha Android app. [Check it out](https://github.com/BradPatras/bike-omaha/tree/master/services))
+I mostly play around with Android development here but I'm an iOS developer by trade, so don't be surprised if you see some swift scattered throughout my repos
 
 I treat each new app as an opportunity to play around with a different framework/design pattern/etc.
 
