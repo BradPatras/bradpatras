@@ -1,12 +1,12 @@
-## 👋 &nbsp; Hi 🤓
+## 👋 Well hello there 🤖
 
-I mostly play around with Android development here but I'm an iOS developer by trade, so don't be surprised if you see some swift scattered throughout my repos
+I mostly play around with Android development here but I'm an iOS developer by trade, so don't be surprised if you see some swift scattered throughout my repos.
 
 I treat each new app as an opportunity to play around with a different framework/design pattern/etc.
 
 ---
 
-**I'm currently working on**
+#### I'm currently working on
 - 🛠 &nbsp; Building [bike-omaha](https://github.com/BradPatras/bike-omaha/)
 - 🏋️ &nbsp; Maintaining [gpx-recorder](https://github.com/BradPatras/gpx-recorder)
 
