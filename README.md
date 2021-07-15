@@ -1,6 +1,6 @@
 ## 👋 Well hello there 🤖
 
-I mostly play around with Android development here but I'm an iOS developer by trade, so don't be surprised if you see some swift scattered throughout my repos.
+I mostly play around with Android development here but I'm an iOS developer by trade, so there's also some swift scattered throughout my repos.
 
 I treat each new app as an opportunity to play around with a different framework/design pattern/etc.
 
