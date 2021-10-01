@@ -18,4 +18,4 @@ I treat each new app as an opportunity to play around with a different framework
 
 &nbsp;
 
-###### pssst! Distracted? Enter the [focus zone](https://bradpatras.github.io/focus) &nbsp; 🤫 
+###### pssst! feeling distracted? enter the [focus zone](https://bradpatras.github.io/focus) &nbsp; 🤫 
