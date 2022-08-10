@@ -7,7 +7,7 @@ I treat each new app as an opportunity to play around with a different framework
 ---
 
 #### I'm currently working on
-- 🛰 &nbsp; Building kotlin/swift libraries for [basic-remote-configs](https://github.com/BradPatras/basic-remote-configs)
+- 🛰 &nbsp; Experimenting with kotlin/swift libraries for [basic-remote-configs](https://github.com/BradPatras/basic-remote-configs)
 - 🛠 &nbsp; Building [bike-omaha](https://github.com/BradPatras/bike-omaha/)
 - 🏋️ &nbsp; Maintaining [gpx-recorder](https://github.com/BradPatras/gpx-recorder)
 
