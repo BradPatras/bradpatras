@@ -9,7 +9,7 @@ I treat each new app as an opportunity to play around with a different framework
 #### I'm currently working on
 - 🧬 &nbsp; Exploring Kotlin Multiplatform and React Native
 - 🏋️ &nbsp; Building a Jetpack Compose app, [Just Workout](https://github.com/BradPatras/just-workout-android), to assist in coming up with fresh strength workouts
-- 🛰 &nbsp; Experimenting with kotlin/swift libraries for [basic-remote-configs](https://github.com/BradPatras/basic-remote-configs)
+- 🛰 &nbsp; Experimenting with multiplatform kotlin/swift libraries in [basic-remote-configs](https://github.com/BradPatras/brc-multiplatform)
 - 🗺️ &nbsp; Maintaining [gpx-recorder](https://github.com/BradPatras/gpx-recorder)
 
 &nbsp;
