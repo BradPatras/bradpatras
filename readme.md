@@ -1,8 +1,8 @@
 ## 👋 Well hello there 🤖
 
-I mostly play around with Android development here but I'm an iOS developer by trade, so there's also some swift scattered throughout my repos.
+My primary focus is Android, iOS and recently React Native, but I enjoy taking side quests into all sorts of different tech stacks.
 
-I treat each new app as an opportunity to play around with a different framework/design pattern/etc.
+I treat each new app/project as an opportunity to play around with a different framework/design pattern/etc.
 
 ---
 
