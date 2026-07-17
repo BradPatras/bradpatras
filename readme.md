@@ -7,7 +7,7 @@ I treat each new app/project as an opportunity to play around with a different f
 ---
 
 #### I'm currently working on
-- 🐹 &nbsp; Exploring golang for TUI apps, ([photo-mover-go](https://github.com/BradPatras/photo-mover-go), [wtp-go](https://github.com/BradPatras/wtp-go)
+- 🐹 &nbsp; Exploring golang for TUI apps ([photo-mover-go](https://github.com/BradPatras/photo-mover-go), [wtp-go](https://github.com/BradPatras/wtp-go))
 - 🥧 &nbsp; Tinkering with raspberry pi powered gadgets
 - 🧬 &nbsp; Exploring Kotlin Multiplatform and React Native
 - 🏋️ &nbsp; Building a Jetpack Compose app, [Just Workout](https://github.com/BradPatras/just-workout-android), to assist in coming up with fresh strength workouts
