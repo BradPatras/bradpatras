@@ -15,6 +15,10 @@ I treat each new app/project as an opportunity to play around with a different f
 
 &nbsp;
 
+## Open Source Contributions
+
+![My Contributions](./contributions.svg)
+
 &nbsp;
 
 &nbsp;
